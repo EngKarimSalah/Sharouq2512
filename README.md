@@ -9,7 +9,7 @@ I'm a fresh graduate passionate about technology and software development. I rec
 ### Programming Languages
 - **Proficient**: C#
 - **Familiar**: Paython, Java, CSS, JavaScript, HTML, C#, SQL, PHP, Dart
-- **Learning**: C#
+- **Learning**: C#, EFCore
 ### Web Development
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, PHP, Java, Python, C#
